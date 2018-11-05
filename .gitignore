@@ -1,0 +1,17 @@
+macos
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Makefile
+cmake_install.cmake
+install_manifest.txt
+CTestTestfile.cmake
+.DS_Store
+googletest-download
+googletest-src
+googletest-build
+lib
+bin
+CMakeFiles
+unit_tests
+exampleapp
